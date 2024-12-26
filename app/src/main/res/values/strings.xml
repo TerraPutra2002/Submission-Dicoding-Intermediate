@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story!</string>
+    <string name="description_welcome_page">Bagikan cerita dan pengalaman kamu saat belajar menggunakan platform Dicoding dan lihat bagaimana pengalaman teman-teman kamu saat belajar menggunakan platform Dicoding</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="no_acc">Belum punya akun?</string>
+    <string name="title_login">Masukkan data kamu terlebih dahulu</string>
+    <string name="desc_login">Pastikan username dan password dimasukkan dengan benar!</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="title_signup">Lengkapi data diri kamu di bawah ini</string>
+    <string name="story_title">Story Title</string>
+    <string name="story_description">Story Description</string>
+    <string name="long_story_description">The story description will show here</string>
+    <string name="btn_home">Kembali ke beranda</string>
+    <string name="add_story">Add Story</string>
+    <string name="selected_img_desc">Gambar yang dipilih</string>
+    <string name="open_camera">Buka Kamera</string>
+    <string name="open_gallery">Buka Galeri</string>
+    <string name="desc_hint">Tambahkan deskripsi cerita anda di sini</string>
+    <string name="upload">Unggah Cerita</string>
+    <string name="logout">Logout</string>
+    <string name="empty_image_warning">Gambar atau deskripsi tidak boleh kosong!</string>
+    <string name="add_story_action_bar">Tambah Story</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="map">Map</string>
+    <string name="map_title">Maps Activity</string>
+</resources>
